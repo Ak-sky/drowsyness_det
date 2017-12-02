@@ -1,5 +1,5 @@
 # USAGE - To be run in windows machine with camera enabled
-# python detect_blinks.py --shape-predictor shape_predictor_68_face_landmarks.dat
+# python drowsyness_detection.py --shape-predictor shape_predictor_68_face_landmarks.dat 
 
 # import the necessary packages
 
